@@ -1,4 +1,4 @@
-# IA pour la Qualité des Exigences – Démonstrateur
+# IA pour la Qualité des Exigences – prompts d’analyse linguistique |Prompt Engineering, Python, NLP,Excel Automation
 
 ###  Objectif
 Ce projet explore l’utilisation de l’intelligence artificielle pour **améliorer la qualité des exigences techniques** dans les projets d’ingénierie.  
